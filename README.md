@@ -1,3 +1,6 @@
 Clone the repository to your local machine.  
-On Windows: .\env\Scripts\activate,  
+start the virtual env;  
+On Windows: .\env\Scripts\activate,   
 On macOS and Linux: source env/bin/activate  
+pip install django  
+python manage.py runserver
